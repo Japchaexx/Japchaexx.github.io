@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello mommy, I am learning React. I am so excited to learn this new technology. I am going to be a great developer. I am going to make you proud. I love you so much.
+          I love you so much.
         
         </p>
         <a
