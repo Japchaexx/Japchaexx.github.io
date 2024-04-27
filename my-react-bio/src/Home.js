@@ -13,8 +13,10 @@ const Home = () => {
 
     return (
         <div className="home">
-            <h2>Home Page</h2>
-            <p>{name} is {age} years old</p>
+            <h2 style={{ marginBottom: '10px' }}>Home Page</h2>
+
+            <p style={{ marginBottom: '10px' }}>{name} is {age} years old</p>
+
             <button onClick={handleClick}>Click Me</button>
         </div>
     );
